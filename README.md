@@ -1,6 +1,29 @@
-Step 15 — Fix/check .gitignore
+# Task Manager REST API
 
-Open .gitignore and make its complete content exactly:
+A RESTful Task Management API built using Node.js, Express.js, MongoDB, and Mongoose.
 
-node_modules/
-.env
+## Features
+
+- Create tasks
+- View all tasks
+- Update tasks
+- Delete tasks
+- MongoDB database integration
+- Mongoose schema and model
+- Request logging middleware
+- Custom 404 route handler
+- Global error handling middleware
+- Environment variable configuration
+
+## Technologies
+
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- JavaScript
+
+## Installation
+
+```bash
+npm install
